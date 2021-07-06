@@ -15,5 +15,12 @@ Install the required packages using these commands :
   npm install jsonwebtoken --save
   npm install nodemon --save-dev
 ```
+##  Running the project 
+
+Run the project by using the following command and try logging by using the JWT
+```sh
+npm start
+```
+
 
 
