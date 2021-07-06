@@ -8,8 +8,8 @@
  - Bcrypt (for encrypting users password)
  - JWT
  - Nodemon
- Install the required packages using these commands :
 
+Install the required packages using these commands :
 ```sh
   npm install express mongoose bcrypt  --save
   npm install jsonwebtoken --save
