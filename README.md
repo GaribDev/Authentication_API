@@ -9,9 +9,11 @@
  - JWT
  - Nodemon
  Install the required packages using these commands :
- '''sh
+
+```sh
   npm install express mongoose bcrypt  --save
   npm install jsonwebtoken --save
   npm install nodemon --save-dev
+```
 
 
